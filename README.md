@@ -1,2 +1,2 @@
 # laravel-crud
-CRUD APplication
+CRUD Application
